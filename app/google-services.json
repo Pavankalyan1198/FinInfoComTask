@@ -1,0 +1,30 @@
+  {
+  "project_info": {
+    "project_number": "591366551150",
+    "firebase_url": "https://fininfocomtask-f4ed2-default-rtdb.firebaseio.com",
+    "project_id": "fininfocomtask-f4ed2",
+    "storage_bucket": "fininfocomtask-f4ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591366551150:android:4d743a856e012582a4987f",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewinfocom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsQTZV9FwxDPL3gNQsyP3k_HJ_C025PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
